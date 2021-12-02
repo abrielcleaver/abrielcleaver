@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 As a software developer with a Master of Science in Mental Health & Wellness, I thrive when it comes to deconstructing an issue logically. I bring a variety of skillsets, including photography and social media marketing. These skills give me the enhanced ability to produce clean code and well-written documentation with close attention to detail.
 
+I enjoy learning new technologies and working with diverse teams. 
 I am happiest when I get to work on a team that is passionate about our project!
 
 ### 👩🏽‍💻 Expertise
