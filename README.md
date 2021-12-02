@@ -1,4 +1,4 @@
-# Hi there 🖖🏽
+# Hi there! 🖖🏽
 
 <!--
 **abrielcleaver/abrielcleaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 -->
-<img width="300" alt="Screen Shot 2021-12-01 at 10 42 12 AM" src="https://user-images.githubusercontent.com/88950125/144285672-de58f794-e226-4318-9b5d-27b958faaa52.png">
-
+<p align="center" width="100%">
+<img width="55%" alt="Screen Shot 2021-12-01 at 10 42 12 AM" src="https://user-images.githubusercontent.com/88950125/144285672-de58f794-e226-4318-9b5d-27b958faaa52.png">
+</p>
 
 ## I'm Abriel. 👩🏽‍💻
 
@@ -36,12 +37,12 @@ I am happiest when I get to work on a team that is passionate about our project!
   
 ### 💬 Ask me about ...
   - [Sprout](https://alchemy-plant-app.github.io/plant-app/), the app that makes it easy for novice plant owners to determine which plants to bring home!
-
+  
 ### 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/abrielcleaver/)
   - [Twitter](https://twitter.com/abriel222)
   - [Instagram](https://www.instagram.com/joyinmedicine/)
-
-## 👋🏽 Your favorite #queerplantmom 🌈🪴
+  
+### 👋🏽 Your favorite #queerplantmom 🌈🪴
 
   ⚡ illustration by alina kotliar
