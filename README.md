@@ -1,4 +1,4 @@
-# Hi there! 🖖🏽
+<!-- # Hi there! 🖖🏽 -->
 
 <!--
 **abrielcleaver/abrielcleaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -->
 <p align="center" width="100%">
-<img width="55%" alt="Screen Shot 2021-12-01 at 10 42 12 AM" src="https://user-images.githubusercontent.com/88950125/144285672-de58f794-e226-4318-9b5d-27b958faaa52.png">
+<img width="35%" alt="Screen Shot 2021-12-01 at 10 42 12 AM" src="https://user-images.githubusercontent.com/88950125/144285672-de58f794-e226-4318-9b5d-27b958faaa52.png">
 </p>
 
 ## I'm Abriel. 👩🏽‍💻
