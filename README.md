@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img width="35%" alt="Screen Shot 2021-12-01 at 10 42 12 AM" src="https://user-images.githubusercontent.com/88950125/144285672-de58f794-e226-4318-9b5d-27b958faaa52.png">
 </p>
 
-## I'm Abriel! 👩🏽‍💻
+## I'm Abriel 👩🏽‍💻
 
 😄 Pronouns: She/Her
 
